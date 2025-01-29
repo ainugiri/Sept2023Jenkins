@@ -1,5 +1,6 @@
 class Car{
   void display1(){
+    System.out.println("Welcome");
   }
   void display2(){
   }
